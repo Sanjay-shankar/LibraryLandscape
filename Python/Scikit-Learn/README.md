@@ -3,7 +3,7 @@ INTRODUCTION
 
 OVERVIEW
 
-Scikit-learn is an open-source Python library that provides a range of supervised and unsupervised learning algorithms. It is built upon the core Python libraries NumPy, SciPy, and matplotlib, which makes it a great choice for data analysis and data mining tasks.
+Scikit-learn is an open-source Python library that provides a range of supervised and unsupervised learning algorithms. It is built upon the core Python libraries NumPy, SciPy, and matplotlib, which makes it an excellent choice for data analysis and data mining tasks.
 
 
 ORIGINAL AUTHOR
